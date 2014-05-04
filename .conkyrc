@@ -1,0 +1,96 @@
+#Conky Configuration
+# Compatible with Gnome2 and OpenBox
+# Much of this config file was originally created by corenominal: (http://crunchbanglinux.org/forums/post/220/#p220)
+# I've modified it to suit my own needs.
+# HilltopYodeler | http://www.hilltopyodeler.com/blog | hilltopyodeler@gmail.com
+#
+# Conky Resources:
+#  - Documentation: http://conky.sourceforge.net/documentation.html
+#  - FAQ: http://conky.sourceforge.net/faq.html
+#  - Formatting/Config Settings: http://conky.sourceforge.net/config_settings.html
+#  - Variables/Arguments: http://conky.sourceforge.net/variables.html
+#  - ManPage: http://conky.sourceforge.net/docs.html
+#####################################################################################################################
+#
+
+lua_load /home/phuc/.config/conky/scripts/conky_lua_scripts.lua
+
+#background true
+use_xft yes
+xftfont Sans:size=8
+xftalpha 1
+update_interval 1.0
+total_run_times 0
+own_window yes
+own_window_transparent yes
+own_window_type desktop
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+minimum_size 200 200
+maximum_width 200
+draw_shades yes
+draw_outline no
+draw_borders no
+draw_graph_borders yes
+default_color white
+default_shade_color black
+default_outline_color white
+alignment top_right
+gap_x 7
+gap_y 5
+#no_buffers no
+uppercase no
+#cpu_avg_samples 2
+#override_utf8_locale no
+
+
+TEXT
+${font sans-serif:bold:size=8}SYSTEM ${hr 2}
+${font sans-serif:normal:size=8}$sysname $kernel $alignr $machine
+Host:$alignr$nodename
+Uptime:$alignr$uptime
+File System: $alignr${fs_type}
+
+${font sans-serif:bold:size=8}PROCESSORS ${hr 2}
+${font sans-serif:normal:size=8}${cpugraph cpu1}
+${font sans-serif:normal:size=8}${cpugraph cpu2}
+CORE1: ${cpu cpu1}% ${goto 85}${cpubar cpu1}
+CORE2: ${cpu cpu2}% ${goto 85}${cpubar cpu2}
+${font sans-serif:normal:size=8}Frequency:${alignr}$freq MHz
+
+${font sans-serif:bold:size=8}MEMORY ${hr 2}
+${font sans-serif:normal:size=8}RAM $alignr $mem / $memmax   $alignr $memperc%
+$membar
+#SWAP $alignr${swap} / ${swapmax}     $alignr ${swapperc}%
+#${swapbar}
+
+${font sans-serif:bold:size=8}DISKS ${hr 2}
+${font sans-serif:normal:size=8}/ $alignr ${fs_used /} / ${fs_size /}    $alignr${fs_used_perc /}%
+${fs_bar /}
+${font sans-serif:normal:size=8}HOME $alignr${fs_used /home} / ${fs_size /home}    $alignr${fs_used_perc /home}%
+${fs_bar /home}
+
+${font sans-serif:bold:size=8}TOP PROCESSES ${hr 2}
+NAME   ${alignr}PID  ${alignr}CPU ${alignr}MEM
+$font${top name 1}${alignr}${lua_parse format %6.0f ${top pid 1}} ${alignr}${lua_parse format %6.2f ${top cpu 1}}${alignr}${lua_parse format %6.2f ${top mem 1}}
+$font${top name 2}${alignr}${lua_parse format %6.0f ${top pid 2}} ${alignr}${lua_parse format %6.2f ${top cpu 2}}${alignr}${lua_parse format %6.2f ${top mem 2}}
+$font${top name 3}${alignr}${lua_parse format %6.0f ${top pid 3}} ${alignr}${lua_parse format %6.2f ${top cpu 3}}${alignr}${lua_parse format %6.2f ${top mem 3}}
+$font${top name 4}${alignr}${lua_parse format %6.0f ${top pid 4}} ${alignr}${lua_parse format %6.2f ${top cpu 4}}${alignr}${lua_parse format %6.2f ${top mem 4}}
+
+${font sans-serif:bold:size=8}NETWORK - (wired) ${hr 2}
+${font sans-serif:normal:size=8}IP Addr (wired): $alignr ${addr enp1s0}
+${downspeedgraph enp1s0 }
+DLS:${downspeed enp1s0}/S $alignr total: ${totaldown enp1s0}
+${upspeedgraph enp1s0 24}
+ULS:${upspeed enp1s0}/S $alignr total: ${totalup enp1s0}
+
+${font sans-serif:bold:size=8}NETWORK - (wifi) ${hr 2}
+${font sans-serif:normal:size=8}IP Addr (wifi): $alignr ${addr wlp3s0}
+ESSID: $alignr ${wireless_essid wlp3s0}
+Connection quality: $alignr ${wireless_link_qual_perc wlp3s0}%
+${downspeedgraph wlp3s0}
+DLS:${downspeed wlp3s0}/S $alignr total: ${totaldown wlp3s0}
+${upspeedgraph wlp3s0}
+ULS:${upspeed wlp3s0}/S $alignr total: ${totalup wlp3s0}
+${hr 2}
+${font sans-serif:bold:size=8}CLOCK:${font sans-serif:normal:size=9}${alignr}${time %H:%M:%S  %d/%m/%Y}
