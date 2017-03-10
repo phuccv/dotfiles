@@ -1,4 +1,0 @@
-Bundle "tomtom/tcomment_vim.git"
-Bundle "Valloric/YouCompleteMe"
-Bundle "honza/vim-snippets"
-Bundle "SirVer/ultisnips"
