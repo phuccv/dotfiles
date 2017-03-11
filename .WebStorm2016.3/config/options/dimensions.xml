@@ -1,0 +1,9 @@
+<application>
+  <component name="DimensionService">
+    <location key="#Browse_Repositories.0.0.1366.768" x="267" y="0" />
+    <location key="#Plugins.0.0.1366.768" x="279" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="230" />
+    <location key="SettingsEditor.0.0.1366.768" x="190" y="40" />
+    <location key="#Vim_Emulation.0.0.1366.768" x="436" y="108" />
+  </component>
+</application>

@@ -1,0 +1,45 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/untitled/app/view2/view2.html" timestamp="1489169304070">
+        <mark key="[" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">PGRpdiBuPgogICAgCjwvZGl2Pgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdiBuPgogICAgCjwvZGl2Pgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5tICc+KzE=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">dm5vcmVtYXAgSiA6bSAnPisxPENSPmd2PWd2</entry>
+        <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
