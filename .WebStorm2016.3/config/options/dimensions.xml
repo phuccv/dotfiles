@@ -5,5 +5,16 @@
     <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="230" />
     <location key="SettingsEditor.0.0.1366.768" x="190" y="40" />
     <location key="#Vim_Emulation.0.0.1366.768" x="436" y="108" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="467" y="127" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="457" y="255" />
+    <location key="jetbrains.javascript.buildTools.run-task-popup.0.0.1366.768" x="552" y="231" />
+    <location key="#update-deps.0.0.1366.768" x="435" y="94" />
+    <location key="jetbrains.nodejs.interpreters-dialog.0.0.1366.768" x="404" y="181" />
+    <size key="SettingsEditor.0.0.1366.768" width="985" height="714" />
+    <size key="jetbrains.javascript.buildTools.run-task-popup.0.0.1366.768" width="252" height="276" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="202" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="202" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="202" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="202" />
   </component>
 </application>
