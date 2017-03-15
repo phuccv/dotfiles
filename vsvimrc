@@ -1,0 +1,51 @@
+nnoremap \ :noh<cr>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Set normal options """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+:set hlsearch
+:set ignorecase
+:set smartcase
+
+" Mapping search shortcut """""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap <Space> *``
+vnoremap <Space> y/<C-R>"<CR>
+nnoremap <S-Space> /<C-R>+<CR>
+
+" Saving shortcut (if needed) """""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Use CTRL-S for saving, also in Insert mode
+"noremap <C-S>       :update<CR>
+"vnoremap <C-S>      <C-C>:update<CR>
+"inoremap <C-S>      <C-O>:update<CR>
+
+
+" Increase and decrease number """"""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap <C-KPlus> <C-a>
+nnoremap <C-KMinus> <C-x>
+
+
+" Collapse option """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap zM :vsc Edit.CollapsetoDefinitions<Cr>
+"nnoremap zf :vsc Edit.CollapsetoDefinitions<Cr>
+"nnoremap gd gdzo
+
+" Comment code """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+xnoremap gc :vsc Edit.CommentSelection<cr>
+nnoremap gc V:vsc Edit.CommentSelection<cr>
+xnoremap gu :vsc Edit.UncommentSelection<cr>
+nnoremap gu V:vsc Edit.UncommentSelection<cr>
+nmap <C-O> :vsc View.NavigateBackward<CR>
+nmap <C-I> :vsc View.NavigateForward<CR>
+nmap <C-]> :vsc Edit.GoToDefinition<CR>
+
+" Error and jump """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap ge :vsc View.NextError<cr>
+xnoremap ge :vsc View.NextError<cr>
+nnoremap ga :vsc View.NavigateBackward<CR>
+nnoremap gs :vsc View.NavigateForward<CR>
+
+" Find & Search """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap gf :vsc Edit.FindAllReferences<cr>
+nnoremap gd :vsc Edit.GoToDefinition<CR>

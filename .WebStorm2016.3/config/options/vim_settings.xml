@@ -3,174 +3,419 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" timestamp="1489233142199">
-        <mark key="'" line="30" column="0" />
-        <mark key="k" line="31" column="0" />
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
-        <mark key="^" line="28" column="13" />
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchase-return.html" timestamp="1489567130575">
+        <mark key="'" line="62" column="63" />
+        <mark key="[" line="124" column="196" />
+        <mark key="]" line="132" column="79" />
+        <mark key="^" line="132" column="79" />
+        <mark key="." line="132" column="79" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/package.json" timestamp="1489234644152">
-        <mark key="'" line="20" column="316" />
-        <mark key="[" line="32" column="3" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
+      <file name="/fragment.js" timestamp="1488020245777">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" timestamp="1489234866134">
-        <mark key="'" line="44" column="36" />
-        <mark key="[" line="31" column="68" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="49" />
-        <mark key="^" line="31" column="49" />
+      <file name="/a.dummy" timestamp="1489546555837">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/app/components/version/interpolate-filter.js" timestamp="1489230390128" />
-      <file name="$USER_HOME$/WebstormProjects/untitled/app/components/services/local-cache.js" timestamp="1489233382587">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/damageitem-form.html" timestamp="1488246751752">
+        <mark key="'" line="11" column="203" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/app/view2/view2.html" timestamp="1489216499258">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
+      <file name="/stocktakecontroller.js" timestamp="1489130029961">
+        <mark key="'" line="51" column="92" />
+        <mark key="[" line="1889" column="14" />
+        <mark key="]" line="1889" column="31" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/bower.json" timestamp="1489234716321">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="26" />
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/main.js" timestamp="1489142739873">
+        <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/app/index.html" timestamp="1489234755492">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="32" />
-        <mark key="." line="35" column="32" />
+      <file name="/JavaScript Console" timestamp="1488363662353">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/autoNumeric.js" timestamp="1489110867750">
+        <mark key="'" line="838" column="7" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/common/resources.vi-VN.js" timestamp="1489566384551">
+        <mark key="'" line="698" column="55" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/supplier-list.html" timestamp="1489376764900">
+        <mark key="'" line="112" column="62" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchase-return-form.html" timestamp="1489139868821">
+        <mark key="[" line="9" column="78" />
+        <mark key="]" line="9" column="77" />
+        <mark key="^" line="9" column="77" />
+        <mark key="." line="9" column="77" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/cashflow.html" timestamp="1488181053163">
+        <mark key="'" line="52" column="81" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1489131236149">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchaseorder.html" timestamp="1489566397486">
+        <mark key="'" line="217" column="43" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="67" column="23" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/usercontroller.js" timestamp="1488161955466">
+        <mark key="'" line="609" column="17" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/stocktakecontroller.js" timestamp="1489136680510">
+        <mark key="'" line="1266" column="28" />
+        <mark key="[" line="1317" column="62" />
+        <mark key="]" line="726" column="8" />
+        <mark key="." line="726" column="8" />
+        <mark key="^" line="726" column="8" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/report-form.html" timestamp="1488181151295">
+        <mark key="'" line="16" column="60" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/ng-tags-input.js" timestamp="1489131341803">
+        <mark key="'" line="701" column="42" />
+        <mark key="[" line="320" column="47" />
+        <mark key="]" line="387" column="17" />
+        <mark key="^" line="387" column="17" />
+        <mark key="." line="387" column="17" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/order-list.html" timestamp="1488181113373">
+        <mark key="'" line="44" column="74" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchaseorder-form.html" timestamp="1489139711950">
+        <mark key="[" line="25" column="73" />
+        <mark key="]" line="25" column="73" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="25" column="73" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/controllers.js" timestamp="1489374216777">
+        <mark key="'" line="8" column="26" />
+        <mark key="[" line="6" column="180" />
+        <mark key="]" line="6" column="192" />
+        <mark key="^" line="6" column="192" />
+        <mark key="." line="6" column="192" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchaseordercontroller.js" timestamp="1489566027293">
+        <mark key="'" line="1444" column="23" />
+        <mark key="[" line="1467" column="15" />
+        <mark key="]" line="1467" column="35" />
+        <mark key="." line="1467" column="35" />
+        <mark key="^" line="1467" column="35" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/damageitemcontroller.js" timestamp="1488265396250">
+        <mark key="'" line="852" column="31" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/product-addnew.html" timestamp="1488181143322">
+        <mark key="'" line="33" column="80" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" timestamp="1489566103751">
+        <mark key="'" line="732" column="48" />
+        <mark key="[" line="901" column="74" />
+        <mark key="]" line="900" column="61" />
+        <mark key="." line="900" column="61" />
+        <mark key="^" line="900" column="61" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/stocktake-update.html" timestamp="1489116656565">
+        <mark key="'" line="79" column="34" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/supplier-payment.html" timestamp="1489376414676">
+        <mark key="'" line="28" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="29" column="5" />
+      </file>
+      <file name="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/suppliercontroller.js" timestamp="1489565790870">
+        <mark key="'" line="815" column="49" />
+        <mark key="[" line="830" column="48" />
+        <mark key="]" line="830" column="48" />
+        <mark key="^" line="820" column="15" />
+        <mark key="." line="830" column="48" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/untitled/app/view2/view2.html" />
-      <jump line="20" column="3" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="4" column="20" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="5" column="20" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="21" column="15" filename="$USER_HOME$/WebstormProjects/untitled/package.json" />
-      <jump line="37" column="316" filename="$USER_HOME$/WebstormProjects/untitled/package.json" />
-      <jump line="10" column="3" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="0" column="5" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="15" column="26" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="5" column="8" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="6" column="56" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="24" column="24" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="11" column="42" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="25" column="16" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="44" column="36" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.js" />
-      <jump line="16" column="22" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="13" column="0" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="15" column="0" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
-      <jump line="28" column="0" filename="$USER_HOME$/WebstormProjects/untitled/app/view1/view1.html" />
+      <jump line="831" column="13" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="9" column="9" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/common/utils.js" />
+      <jump line="941" column="36" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="846" column="17" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="937" column="32" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="1348" column="36" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="418" column="24" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="433" column="24" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="457" column="24" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="677" column="48" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="813" column="45" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="814" column="12" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="117" column="55" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchase-return.html" />
+      <jump line="822" column="64" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="739" column="28" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="96" column="89" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchase-return.html" />
+      <jump line="857" column="52" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="446" column="32" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="858" column="26" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="900" column="27" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="790" column="0" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="888" column="19" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="891" column="34" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="781" column="23" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="884" column="28" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="930" column="23" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="873" column="24" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="875" column="41" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="611" column="24" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="544" column="14" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="546" column="38" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="561" column="87" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="612" column="51" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="615" column="39" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="876" column="43" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="885" column="65" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="788" column="17" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="816" column="63" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="886" column="28" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="1095" column="38" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="475" column="40" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="476" column="33" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="479" column="37" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="480" column="37" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="735" column="67" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="734" column="72" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="1035" column="29" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="1044" column="67" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="1045" column="38" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="1074" column="135" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="85" column="21" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchase-return.html" />
+      <jump line="1241" column="41" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="510" column="16" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="335" column="9" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="442" column="36" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="949" column="71" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="948" column="19" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="860" column="28" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="636" column="27" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="675" column="56" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="657" column="56" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="643" column="0" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="617" column="40" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="752" column="17" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="563" column="32" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="943" column="27" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="562" column="64" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="646" column="20" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="658" column="32" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="309" column="40" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="373" column="20" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="543" column="12" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="576" column="0" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="699" column="39" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="724" column="60" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="697" column="37" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="579" column="73" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="571" column="17" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="711" column="90" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="623" column="40" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="572" column="66" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="761" column="36" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="728" column="56" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="720" column="0" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="818" column="42" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="340" column="29" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="200" column="38" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchaseorder.html" />
+      <jump line="62" column="63" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchase-return.html" />
+      <jump line="1478" column="0" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="70" column="99" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchaseorder.html" />
+      <jump line="1219" column="51" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchaseordercontroller.js" />
+      <jump line="652" column="35" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchaseordercontroller.js" />
+      <jump line="789" column="31" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchaseordercontroller.js" />
+      <jump line="1444" column="23" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchaseordercontroller.js" />
+      <jump line="610" column="0" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="732" column="48" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/retailer/purchasereturncontroller.js" />
+      <jump line="217" column="43" filename="D:/Projects/KV.Dev/KiotViet.Web/Content/retailer/partial/purchaseorder.html" />
+      <jump line="1196" column="73" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/common/resources.vi-VN.js" />
+      <jump line="679" column="76" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/common/resources.vi-VN.js" />
+      <jump line="698" column="55" filename="D:/Projects/KV.Dev/KiotViet.Web/Scripts/common/resources.vi-VN.js" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiBuPgogICAgCjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZ3JpZCA9ICQoJyNjYXJ0R3JpZCcpLmRhdGEoJ2tlbmRvR3JpZCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>angular-route/angular-route.js</text>
+        <text encoding="base64">ICYmICRzY29wZS5hZGRBbW91bnQ=</text>
       </register>
       <register name="/" type="4">
-        <text>angular</text>
+        <text>tiền trả nhà cung cấp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iYm93ZXJfY29tcG9uZW50cy9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="0" type="4">
+        <text>ordersvc.getDetails</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iYm93ZXJfY29tcG9uZW50cy8iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXltZW50TWV0aG9kID0gJ0NhcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIm5nLXJlc291cmNlIjogIl4xLjMuMiIKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im11bHRpUGF5VHh0Ij5UaT9uIG0/dDwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIm5nLXJlc291cmNlIjogIl4xLjMuMiIKICB9Cn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iYm93ZXJfY29tcG9uZW50cy9uZ3IiPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyLXJlc291Y2UiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lQ2FjaGVkLnB1c2gobmFtZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lQ2FjaGVkCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApIiBjbGFzcz0ibXVsdGlQYXlJY29uIiB0aXRsZT0iS2jhY2ggdGhhbmggdG/hbiI+PGkgY2xhc3M9ImZhIGZhLWNyZWRpdC1jYXJkIj48L2k+PC9hPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBsc3RSZXR1cm5EZXRhaWwgPSBjb252ZXJ0RGV0YWlsSXRlbSgkc2NvcGUuY2FydC5QdXJjaGFzZU9yZGVyRGV0YWlscywgZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yKHZhciBqID0gMDsgajwgbHN0UmV0dXJuRGV0YWlsOyBqKyspewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5ndWxhci5mb3JFYWNoKGxzdFJldHVybkRldGFpbCwgZnVuY3Rpb24gKGRldCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKGRldC5QdXJjaGFzZU9yZGVyRGV0YWlsSWQpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWaWV3SW5kZXggOiBpZHgK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL1ZpZXdJbmRleCA6IGluZGV4Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>e#</text>
+        <text>set visualbell</text>
       </register>
     </registers>
     <search>
-      <last-search>angular</last-search>
+      <last-search>tiền trả nhà cung cấp</last-search>
       <last-offset />
-      <last-pattern>angular</last-pattern>
+      <last-pattern>tiền trả nhà cung cấp</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>angular</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxjb252ZXJ0RGV0YWlsSXRlbVw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVJdGVtXD4=</entry>
+        <entry encoding="base64">XDxQdXJjaGFzZVJldHVybkRldGFpbHNcPg==</entry>
+        <entry encoding="base64">XDxWaWV3SW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxhZGRQcm9kdWN0XD4=</entry>
+        <entry encoding="base64">XDxCdXlRdWFudGl0eVw+</entry>
+        <entry encoding="base64">XDxnZXRQdXJjaGFzZVJldHVyblw+</entry>
+        <entry encoding="base64">XDx1c2VBbGxvY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxSZXR1cm5QcmljZVw+</entry>
+        <entry>save</entry>
+        <entry encoding="base64">XDxzYXZlRGF0YVw+</entry>
+        <entry encoding="base64">XDxQdXJjaGFzZU9yZGVySWRcPg==</entry>
+        <entry encoding="base64">XDxQdXJjaGFzZU9yZGVyRGV0YWlsc1w+</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
+        <entry encoding="base64">XDxfb3JkZXJzXD4=</entry>
+        <entry>ordersvc.getDetails</entry>
+        <entry>saveData</entry>
+        <entry encoding="base64">XDxzaG93TXVsdGlQYXltZW50UG9wdXBcPg==</entry>
+        <entry encoding="base64">XDxVcGRhdGVDYXJ0XD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVWYWx1ZVw+</entry>
+        <entry>cần trả nhà cung cấp</entry>
+        <entry>tiền trả nhà cung cấp</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm5vcmVtYXAgSiA6bSAnPisxPENSPmd2PWd2</entry>
-        <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
-        <entry>0,$ y</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPHNpbGVudD48bGVhZGVyPmhzIDpzcGxpdDxCYXI+OndpbmNtZCBqPENSPjp3aW5jbWQgPTxDUj4=</entry>
-        <entry>split|:wincmd j</entry>
-        <entry>wincmd =</entry>
-        <entry>vsplit</entry>
-        <entry>wincmd l</entry>
-        <entry encoding="base64">bm5vcmVtYXAgZ2ggOldyaXRlQnVmZmVySWZOZWNlc3Nhcnk8Q1I+OndpbmNtZCBoPENSPg==</entry>
-        <entry>WriteBufferIfNecessary</entry>
-        <entry>wincmd h</entry>
-        <entry>w</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNwYWNlPiB5LzxDLVI+MDxDUj4=</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPFMtc3BhY2U+IC88Qy1SPis8Q1I+</entry>
+        <entry>let stay_star_view = winsaveview()</entry>
+        <entry>call winrestview(stay_star_view)</entry>
         <entry>e#</entry>
+        <entry encoding="base64">bm1hcCBhIDphY3Rpb24gR290b0RlY2xhcmF0aW9uPENSPg==</entry>
+        <entry>map gc :action CommentByLineComment</entry>
+        <entry encoding="base64">bWFwIGdjIDphY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ8Q1I+</entry>
+        <entry encoding="base64">bm5vcmVtYXAgZ2NjIDphY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ8Q1I+</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry encoding="base64">dm5vcmVtYXAgZ2MgOmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj4g</entry>
+        <entry encoding="base64">IHZub3JlbWFwIGdjIDphY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50PENSPiA=</entry>
+        <entry encoding="base64">dm5vcmVtYXAgZ2MgOmFjdGlvbiBDb21tZW50QnlCbG9ja0NvbW1lbnQ8Q1I+</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">IFZpbSBUaXBzIFdpa2kgICAgICBDb21tdW5pdHkgcG9ydGFsICAgICBUbyBkbyAgICAgT24gdGhlIFdpa2kgICAgICAgICBXaWtpIEFjdGl2aXR5ICAgICAgICAgUmFuZG9tIHBhZ2UgICAgICAgICBWaWRlb3MgICAgICAgICBJbWFnZXMgICAgICAgICBDaGF0ICBDb250cmlidXRlIERpc2FibGUgYmVlcGluZyAxLDYyNHBhZ2VzIG9uIHRoaXMgd2lraSBBZGQgTmV3IFBhZ2UgRWRpdCBUYWxrMCBTaGFyZSBUaXAgNDE4IFByaW50YWJsZSBNb25vYm9vayBQcmV2aW91cyBOZXh0ICBjcmVhdGVkIDIwMDMgtyBjb21wbGV4aXR5IGJhc2ljILcgdmVyc2lvbiA2LjAgIFZpbSBtYXkgYmVlcCBvciBtYXkgZmxhc2ggaXRzIHdpbmRvdyBpZiBhbiBlcnJvciBvY2N1cnMuIFRoaXMgdGlwIGV4cGxhaW5zIHRoZSBzZXR0aW5ncyB0aGF0IGNvbnRyb2wgdGhlc2UgZnVuY3Rpb25zLCBhbmQgc2hvd3MgaG93IHRvIGRpc2FibGUgYmVlcGluZyBhbmQgZmxhc2hpbmcgaW4gYm90aCB0ZXJtaW5hbCBWaW0gYW5kIEdVSSBWaW0gKGd2aW0pLiBTZWUgYmVsb3cgaWYgeW91IGp1c3Qgd2FudCB0aGUgc29sdXRpb24uIENvbnRlbnRzW3Nob3ddIFNldHRpbmdzRWRpdCAgVGhlICdlcnJvcmJlbGxzJyAoYWJicmV2aWF0ZWQgYXMgJ2ViJykgb3B0aW9uIGlzIG9mZiBieSBkZWZhdWx0LiBJZiBpdCBpcyBvbiAodGhhdCBpcywgaWYgOnNldCBlcnJvcmJlbGxzIGlzIHVzZWQpLCBWaW0gd2lsbCBlaXRoZXIgYmVlcCBvciBmbGFzaCBpdHMgc2NyZWVuIHdoZW4gYW4gZXJyb3IgbWVzc2FnZSBpcyBkaXNwbGF5ZWQuIEZvciBleGFtcGxlLCB0aGUgY29tbWFuZCA6c2V0IHh5eiBkaXNwbGF5cyBhbiBlcnJvciBtZXNzYWdlIGJlY2F1c2UgJ3h5eicgaXMgbm90IGEgdmFsaWQgb3B0aW9uLiBJZiAnZXJyb3JiZWxscycgaXMgb24sIHRoZSBlcnJvciBtZXNzYWdlIHdpbGwgYXR0ZW1wdCB0byBlaXRoZXIgc291bmQgYSBiZWVwIG9yIGZsYXNoIFZpbSdzIHNjcmVlbi4gIFRoZSAnZXJyb3JiZWxscycgb3B0aW9uIGhhcyBubyBlZmZlY3Qgb24gdGhlIGJlZXBzIHRoYXQgVmltIG1ha2VzIHdoZW4gYW4gZXJyb3IgbWVzc2FnZSBpcyBub3QgZGlzcGxheWVkIChmb3IgZXhhbXBsZSwgb24gcHJlc3NpbmcgRXNjIHdoZW4gaW4gbm9ybWFsIG1vZGUpLiAgVGhlICd2aXN1YWxiZWxsJyAoYWJicmV2aWF0ZWQgYXMgJ3ZiJykgb3B0aW9uIGlzIG9mZiBieSBkZWZhdWx0LiBJZiBpdCBpcyBvbiAodGhhdCBpcywgaWYgOnNldCB2aXN1YWxiZWxsIGlzIHVzZWQpLCBWaW0gd2lsbCBmbGFzaCBpdHMgc2NyZWVuIGluc3RlYWQgb2Ygc291bmRpbmcgYSBiZWVwICh0aGF0IGlzLCBhdCB0aW1lcyB3aGVuIGEgYmVlcCB3b3VsZCBoYXZlIG9jY3VycmVkLCB0aGUgc2NyZWVuIHdpbGwgZmxhc2ggaW5zdGVhZCkuICBUaGUgJ3RfdmInIG9wdGlvbiwgYnkgZGVmYXVsdCwgaXMgc2V0IHRvIGEgY29kZSB0aGF0IHdpbGwgY2F1c2UgdGhlIHNjcmVlbiB0byBmbGFzaC4gU3RhcnRpbmcgdGhlIEdVSSAod2hpY2ggb2NjdXJzIGFmdGVyIHZpbXJjIGlzIHJlYWQpIHJlc2V0cyAndF92YicgdG8gaXRzIGRlZmF1bHQgdmFsdWUuIElmICd0X3ZiJyBpcyBjbGVhcmVkLCBWaW0gd2lsbCBuZXZlciBmbGFzaCB0aGUgc2NyZWVul2hvd2V2ZXIsIGl0IGhhcyB0byBiZSBjbGVhcmVkIGFmdGVyIHRoZSBHVUkgaGFzIHN0YXJ0ZWQuICBJZiAndF92YicgaXMgY2xlYXJlZCBhbmQgJ3Zpc3VhbGJlbGwnIGlzIHNldCwgbm8gYmVlcCBhbmQgbm8gZmxhc2ggd2lsbCBldmVyIG9jY3VyLiBUaGF0IGlzIGFjaGlldmVkIGJ5IGVudGVyaW5nIHRoZSBjb21tYW5kIDpzZXQgdmIgdF92Yj0gYWZ0ZXIgdGhlIEdVSSBoYXMgc3RhcnRlZJdzZWUgbWV0aG9kIDEgb3IgbWV0aG9kIDIgYmVsb3cuIERlbW9uc3RyYXRpb25FZGl0ICBBIGRlbW9uc3RyYXRpb24gaXMgdXNlZnVsIHRvIHNob3cgaG93IHRoZSBvcHRpb25zIHdvcmsuIFN0YXJ0IFZpbSB3aXRoIG5vIGluaXRpYWxpemF0aW9ucyBmcm9tIHZpbXJjIG9yIGd2aW1yYywgYnV0IHVzaW5nICdub2NvbXBhdGlibGUnIG1vZGU6ICB2aW0gLU4gLXUgTk9ORSAgSW4gVmltLCBwcmVzcyBFc2MuIElmIHlvdXIgc291bmQgc3lzdGVtIGlzIHdvcmtpbmcsIHlvdSBzaG91bGQgaGVhciB5b3VyIHN5c3RlbSdzIHZlcnNpb24gb2YgYSAiYmVsbCIgKG9mdGVuIGEgYmVlcCkuIEVudGVyIHRoZSBjb21tYW5kIDpzZXQgeHl6IGFuZCBvYnNlcnZlIHRoYXQgYW4gZXJyb3IgbWVzc2FnZSBpcyBkaXNwbGF5ZWQsIGJ1dCBubyBiZWVwIG9jY3Vycy4gRGlzcGxheSB0aGUgZGVmYXVsdCBzZXR0aW5ncyBieSBlbnRlcmluZzogIDpzZXQgZWI/IHZiPyB0X3ZiPyAgVmltIHdpbGwgZGlzcGxheSBzb21ldGhpbmcgbGlrZSAodGhlIF5bLi4uIGRlcGVuZHMgb24geW91ciBzeXN0ZW0pOiAgbm9lcnJvcmJlbGxzIG5vdmlzdWFsYmVsbCAgIHRfdmI9XlsuLi4gIER1ZSB0byBub2Vycm9yYmVsbHMsIG5vIGJlZXAgb2NjdXJzIHdoZW4gYW4gZXJyb3IgbWVzc2FnZSBpcyBkaXNwbGF5ZWQuIEhvd2V2ZXIsIG90aGVyICJlcnJvcnMiIHN1Y2ggYXMgcHJlc3NpbmcgRXNjIHdoZW4gaW4gbm9ybWFsIG1vZGUgd2lsbCBjYXVzZSBhIGJlZXAuICBFbnRlciB0aGUgY29tbWFuZCA6c2V0IHZiIHRvIHNldCB2aXN1YWxiZWxsLiBFbnRlcmluZyA6c2V0IHh5eiB3aWxsIGdpdmUgdGhlIHNhbWUgcmVzdWx0IGFzIGJlZm9yZS4gSG93ZXZlciwgcHJlc3NpbmcgRXNjIHNob3VsZCBmbGFzaCBWaW0ncyBzY3JlZW4gKGEgInZpc3VhbCBiZWxsIikuICBFbnRlciB0aGUgY29tbWFuZCA6c2V0IHRfdmI9IHRvIGNsZWFyIHRoZSB0X3ZiIG9wdGlvbiAoc28gaXQgd2lsbCBkbyBub3RoaW5nKS4gRW50ZXJpbmcgOnNldCB4eXogd2lsbCBnaXZlIHRoZSBzYW1lIHJlc3VsdCBhcyBiZWZvcmUgKGEgbWVzc2FnZSBidXQgbm8gYmVlcCBvciBmbGFzaCkuIEhvd2V2ZXIsIHByZXNzaW5nIEVzYyBzaG91bGQgYWxzbyBkbyBub3RoaW5nIChubyBiZWVwIGFuZCBubyBmbGFzaCkuIFRoZSB0X3ZiIG9wdGlvbiBjb250cm9scyBob3cgVmltIGZsYXNoZXMgdGhlIHNjcmVlbiAob24gYm90aCBVbml4IGFuZCBXaW5kb3dzIHN5c3RlbXMsIGZvciBib3RoIHRlcm1pbmFsIGFuZCBndWkgVmltKS4gSWYgdGhlIG9wdGlvbiBpcyBlbXB0eSwgVmltIGRvZXMgbm90IGZsYXNoIHRoZSBzY3JlZW4uIERpc2FibGUgYmVlcCBhbmQgZmxhc2ggd2l0aCBhbiBhdXRvY21kRWRpdCAgVG8gZGlzYWJsZSBiZWVwaW5nIChha2EgImJlbGwiKSBhbmQgd2luZG93IGZsYXNoaW5nLCBwdXQgdGhlIGZvbGxvd2luZyBpbiB5b3VyIHZpbXJjLiBUaGlzIHdvcmtzIG9uIFVuaXggYW5kIFdpbmRvd3Mgc3lzdGVtcyBmb3IgYm90aCB0ZXJtaW5hbCBhbmQgR1VJIFZpbS4gIHNldCBub2Vycm9yYmVsbHMgdmlzdWFsYmVsbCB0X3ZiPSBhdXRvY21kIEdVSUVudGVyICogc2V0IHZpc3VhbGJlbGwgdF92Yj0gIFRoZSBzYW1lIGNvbW1hbmRzIGNhbiBiZSBlbnRlcmVkIHVzaW5nIGFiYnJldmlhdGlvbnM6ICBzZXQgbm9lYiB2YiB0X3ZiPSBhdSBHVUlFbnRlciAqIHNldCB2YiB0X3ZiPSAgVGhlIGFib3ZlIHdpbGwgZ2l2ZSBhbiBlcnJvciBtZXNzYWdlIGlmIHJ1biBvbiBhIFZpbSB3aGljaCB3YXMgbm90IGNvbXBpbGVkIHdpdGggdGhlICthdXRvY21kIGZlYXR1cmUuIFRvIGF2b2lkIHRoYXQgcG9zc2liaWxpdHksIHVzZTogIHNldCBub2Vycm9yYmVsbHMgdmlzdWFsYmVsbCB0X3ZiPSBpZiBoYXMoJ2F1dG9jbWQnKSAgIGF1dG9jbWQgR1VJRW50ZXIgKiBzZXQgdmlzdWFsYmVsbCB0X3ZiPSBlbmRpZiAgRGlzYWJsZSBiZWVwIGFuZCBmbGFzaCB3aXRoIGd2aW1yY0VkaXQgIEFub3RoZXIgbWV0aG9kIHRvIGRpc2FibGUgYmVlcGluZyBhbmQgZmxhc2hpbmcgaXMgdG8gcHV0IGEgY29tbWFuZCBpbnRvIHlvdXIgdmltcmMgdG8gaGFuZGxlIHRlcm1pbmFsIFZpbSwgYW5kIGFub3RoZXIgY29tbWFuZCBpbnRvIHlvdXIgZ3ZpbXJjIHRvIGhhbmRsZSBndmltLiBUaGlzIHdvcmtzIG9uIFVuaXggYW5kIFdpbmRvd3Mgc3lzdGVtcy4gIFB1dCB0aGUgZm9sbG93aW5nIGluIHZpbXJjOiAgc2V0IG5vZWIgdmIgdF92Yj0g</entry>
+        <entry>set noeb vb t_vb=</entry>
+        <entry>set noerrorbells</entry>
+        <entry>set visualbell</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed L</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

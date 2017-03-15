@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular.min.js" type="javaScript">
+      <CLASSES>
+        <root url="file://D:/Projects/KV.Dev/KiotViet.Web/Scripts/angular.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="kendo.angular.min.js" type="javaScript">
+      <CLASSES>
+        <root url="file://D:/Projects/KV.Dev/KiotViet.Web/Scripts/kendo.angular.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
