@@ -49,3 +49,9 @@ Videos/
 .WebStorm2016.3/config/plugins/extensions.xml
 .WebStorm2016.3/config/options/feature.usage.statistics.xml
 .WebStorm2016.3/config/options/options.xml
+.MemuHyperv/
+.WebStorm2016.3/config/options/dimensions.xml
+.android/
+2016-11-28-07-44-18.022-MEmuHeadless.exe-2240.log
+SciTE.session
+*.log

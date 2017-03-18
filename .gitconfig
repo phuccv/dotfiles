@@ -10,3 +10,4 @@
 	trustExitCode = true
 [core]
 	excludesfile = C:\\Users\\phuc\\Documents\\gitignore_global.txt
+	autocrlf = true
