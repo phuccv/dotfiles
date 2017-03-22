@@ -55,3 +55,5 @@ Videos/
 2016-11-28-07-44-18.022-MEmuHeadless.exe-2240.log
 SciTE.session
 *.log
+.WebStorm2016.3/config/disabled_plugins.txt
+.WebStorm2016.3/config/plugins/IdeaVim/lib/cd342f7bea0389fb-0.48.jar
